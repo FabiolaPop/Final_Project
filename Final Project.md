@@ -1,1 +1,2 @@
-# Final_Project
+# Final project for ITF Manual Testing Course
+
