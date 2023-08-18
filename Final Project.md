@@ -30,7 +30,7 @@
 <p>It will be done by generating periodic reports that reflect the current status of the test. </p>
 
 <h2>Test Analysis </h2>
-<p>The testing process will be executed based on the above requirements for the two main modules. </p>
+<p>The testing process will be executed based on the requirements for the two main modules. </p>
 
 <h2>Test Design </h2>
 <p>Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:</p>
