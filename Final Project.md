@@ -89,10 +89,7 @@
 <p>Exit criteria was evaluated and passed and can be seen here: </p>
 
 <h2>The traceability matrix </h2>
-<p>was generated and can be found here: matrice trasabilitate.pdf.pdf</p>
-
-<h2>Test Execution </h2>
-<p>Test cases are executed on the created test Cycle summary: </p>
+<p>was generated and can be found here: </p>
 
 <h2>Test Execution chart </h2>
 -> enter here test execution report/chart
