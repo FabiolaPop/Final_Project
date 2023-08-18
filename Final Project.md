@@ -81,7 +81,7 @@
   <li>I can save data even the fields are maked as mandatory</li>
   <li>The name page is Buna Fabiola, not Stergere cont.</li>
 </ol>
-<p>And can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.xlsx</p>
+<p>And can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.csv</p>
 <p>Same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.png</p>
 
 <h2>Test Completion </h2>
