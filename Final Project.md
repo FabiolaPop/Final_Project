@@ -56,11 +56,11 @@
 
 <h2>Test Implementation </h2>
 <p>The following elements are needed to be ready before the test execution phase begins: </p>
-<p>enter here what needs to be ready for the test execution to begin</p>
-
-<h2>Test Execution </h2>
-<p>Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf </p>
-
+<ol>
+  <li>Navigate the site to observe the functionalities of the menus</li>
+  <li>create an user accoun</li>
+</ol>
+  
 <h2>Bugs </h2>
 <p>have been created based on the failed tests. The complete list of bugs: </p>
 <ol>
@@ -68,13 +68,24 @@
 </ol>
 
 <h2>Test Completion </h2>
-<p>Exit criteria was evaluated and passed </p>
+<p>Exit criteria was evaluated and passed and can be seen here: </p>
 
 <h2>The traceability matrix </h2>
-<p>was generated and can be found here: Traceability_matrix.csv </p>
+<p>was generated and can be found here:  </p>
+
+<h2>Test Execution </h2>
+<p>Test cases are executed on the created test Cycle summary: </p>
 
 <h2>Test execution chart </h2>
-<p>was generated, the final report shows.... -> describe the final report </p>
 -> enter here test execution report/chart
+
+<h2>The final report shows:</h2>
+<ol>
+  <li>Within this project, all 15 TCs planned for execution were tested.</li>
+  <li>From the 15 TCs, a total number of 17 bugs were discovered, whose priorities are 5 (low), 3 (medium) and 9 (high)</li>
+  <li>The reported defects have been reduced by upgrading the site.</li>
+  <li>In the new version, retesting and regression testing will be performed.</li>
+</ol>
+
 
 
