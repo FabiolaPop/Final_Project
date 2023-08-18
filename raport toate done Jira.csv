@@ -1,0 +1,38 @@
+Issue Type,Issue key,Issue id,Summary,Reporter,Priority,Status,Created,Updated
+Test,PFF-2,10001, Verify left menu for Home button in the Top menu,Fabiola Pop,Medium,Done,8/3/2023 23:21,8/16/2023 22:26
+Story,PFF-1,10000,Menu and buttons,Fabiola Pop,Medium,Done,8/3/2023 23:19,8/16/2023 22:26
+Story,PFF-4,10003,Contul meu,Fabiola Pop,Medium,Done,8/3/2023 23:22,8/16/2023 22:25
+Bug,BT-39,10038,"When using the % Oferte speciale button, I can`t find the link to the Promotiile Lunii button from top meniu",Fabiola Pop,Medium,Done,8/6/2023 13:47,8/16/2023 22:23
+Bug,BT-38,10037,The %Oferte speciale seems to duble the name of the button Promotiile lunii,Fabiola Pop,Medium,Done,8/6/2023 13:34,8/16/2023 22:23
+Bug,BT-37,10036,The buttons from left menu of the button Promotiile lunii should be the same as those from left menu of the button Home,Fabiola Pop,Medium,Done,8/6/2023 13:14,8/16/2023 22:23
+Bug,BT-36,10035,The name of the page is: Promotii  and the name of the button in top menu is Promotiile lunii,Fabiola Pop,Medium,Done,8/6/2023 13:02,8/16/2023 22:23
+Bug,BT-35,10034,"In the page Cum cumpar / Politica de retur I should find a link with Formlar De Retur, which can be find in tope meniu",Fabiola Pop,Medium,Done,8/6/2023 12:07,8/16/2023 22:23
+Bug,BT-34,10033,In left meniu the name of the button Metode de Plata is different from that in top menu; Metode De Plata,Fabiola Pop,Medium,Done,8/6/2023 11:59,8/16/2023 22:23
+Bug,BT-33,10032,"If same buttons have the same name in the left menu as those in top menu, it should have the same order in meniu.",Fabiola Pop,Medium,Done,8/6/2023 11:51,8/16/2023 22:23
+Bug,BT-32,10031,I can find some buttons from left menu in top meniu,Fabiola Pop,Medium,Done,8/6/2023 11:38,8/16/2023 22:23
+Bug,BT-31,10030,I can`t find a method to anull an order.,Fabiola Pop,Medium,Done,8/5/2023 21:57,8/16/2023 22:23
+Bug,BT-30,10029,"In the Status comanda page, the search doesn`t find the the order by using the order number of the order",Fabiola Pop,Medium,Done,8/5/2023 21:24,8/16/2023 22:23
+Bug,BT-29,10028,"If the order has been canceled, the message Plata in asteptare still remains",Fabiola Pop,Medium,Done,8/5/2023 21:15,8/16/2023 22:23
+Bug,BT-28,10027,"By using the button Vezi status, the response is Comanda nu a fost gasita",Fabiola Pop,Medium,Done,8/5/2023 0:22,8/16/2023 22:23
+Task,BT-27,10026,[Improvement] - The page does not need the specification Wishlist,Fabiola Pop,Medium,Done,8/4/2023 23:57,8/16/2023 22:23
+Bug,BT-26,10025,The product size is added randomly,Fabiola Pop,Medium,Done,8/4/2023 23:42,8/16/2023 22:23
+Bug,BT-25,10024,"The name of the button Adrese from left menu, should be the same as the one of the page.",Fabiola Pop,Medium,Done,8/4/2023 21:35,8/16/2023 22:23
+Task,BT-24,10023,[Improvement] - The field Telefon should be also mandary,Fabiola Pop,Medium,Done,8/4/2023 21:23,8/16/2023 22:23
+Bug,BT-23,10022,The name of the page is DATE PERSONALE...,Fabiola Pop,Medium,Done,8/4/2023 20:54,8/16/2023 22:23
+Bug,BT-22,10021,I can save data even the fields are maked as mandatory,Fabiola Pop,Medium,Done,8/4/2023 20:46,8/16/2023 22:23
+Bug,BT-21,10020,"The name page is Buna Fabiola, not Stergere cont.",Fabiola Pop,Medium,Done,8/4/2023 19:29,8/16/2023 22:23
+Test Case,BT-19,10018,Verify Logout button,Fabiola Pop,Medium,Done,8/4/2023 16:45,8/16/2023 22:23
+Test Case,BT-17,10016,Verify Modifica parola,Fabiola Pop,Medium,Done,8/4/2023 16:43,8/16/2023 22:23
+Test Case,BT-16,10015,Verify Date personale,Fabiola Pop,Medium,Done,8/4/2023 16:41,8/16/2023 22:23
+Task,BT-15,10014,Verify Profil,Fabiola Pop,Medium,Done,8/4/2023 16:40,8/16/2023 22:23
+Test Case,BT-14,10013,Verify Firme,Fabiola Pop,Medium,Done,8/4/2023 16:36,8/16/2023 22:23
+Test Case,BT-13,10012,Verify Adrese,Fabiola Pop,Medium,Done,8/4/2023 16:35,8/16/2023 22:23
+Test Case,BT-12,10011,Verify Livrare & Facturare,Fabiola Pop,Medium,Done,8/4/2023 16:34,8/16/2023 22:23
+Test Case,BT-11,10010,Verify module Buna Fabiola,Fabiola Pop,Medium,Done,8/4/2023 14:57,8/16/2023 22:23
+Test Case,BT-10,10009,Verify Produse favorite,Fabiola Pop,Medium,Done,8/3/2023 23:45,8/16/2023 22:23
+Test Case,BT-9,10008,Verify Status comanda,Fabiola Pop,Medium,Done,8/3/2023 23:45,8/16/2023 22:23
+Test Case,BT-8,10007,Verify Istoric comenzi,Fabiola Pop,Medium,Done,8/3/2023 23:44,8/16/2023 22:23
+Test Case,BT-7,10006,Verify left menu for  Cum Cumpar button in the Top menu:,Fabiola Pop,Medium,Done,8/3/2023 23:39,8/16/2023 22:23
+Test Case,BT-6,10005,Verify left menu for Promotiile Lunii button from Top menu,Fabiola Pop,Medium,Done,8/3/2023 23:38,8/16/2023 22:23
+Test Case,BT-5,10004,Verify Comenzi,Fabiola Pop,Medium,Done,8/3/2023 23:23,8/16/2023 22:23
+Epic,PFF-3,10039,Identify the type of website is tested,Fabiola Pop,Medium,Done,8/6/2023 16:42,8/16/2023 22:23
