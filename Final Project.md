@@ -62,10 +62,27 @@
 </ol>
   
 <h2>Bugs </h2>
-<p>have been created based on the failed tests. The complete list of bugs: </p>
+<p>Bugs have been created based on the failed tests. The complete list of bugs: </p>
 <ol>
-  <li></li>
+  <li>When using the % Oferte speciale button, I can`t find the link to the Promotiile Lunii button from top meniu
+  <li>The %Oferte speciale seems to duble the name of the button Promotiile lunii</li>
+  <li>The buttons from left menu of the button Promotiile lunii should be the same as those from left menu of the button Home</li>
+  <li>The name of the page is: Promotii  and the name of the button in top menu is Promotiile lunii</li>
+  <li>In the page Cum cumpar / Politica de retur I should find a link with Formlar De Retur, which can be find in tope meniu</li>
+  <li>In left meniu the name of the button Metode de Plata is different from that in top menu; Metode De Plata</li>
+  <li>If same buttons have the same name in the left menu as those in top menu, it should have the same order in meniu.</li>
+  <li>I can find some buttons from left menu in top meniu</li>
+  <li>I can`t find a method to anull an order.</li>
+  <li>In the Status comanda page, the search doesn`t find the the order by using the order number of the order</li>
+  <li>If the order has been canceled, the message Plata in asteptare still remains</li>
+  <li>By using the button Vezi status, the response is Comanda nu a fost gasita</li>
+  <li>The product size is added randomly</li>
+  <li>The name of the button Adrese from left menu, should be the same as the one of the page.</li>
+  <li>The name of the page is DATE PERSONALE...</li>
+  <li>I can save data even the fields are maked as mandatory</li>
+  <li>The name page is Buna Fabiola, not Stergere cont.</li>
 </ol>
+<p>was generated and can be found here:  </p>
 
 <h2>Test Completion </h2>
 <p>Exit criteria was evaluated and passed and can be seen here: </p>
