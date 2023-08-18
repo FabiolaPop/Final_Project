@@ -89,7 +89,7 @@
 <p>Exit criteria was evaluated and passed and can be seen here: </p>
 
 <h2>The traceability matrix </h2>
-<p>was generated and can be found here: </p>
+<p>was generated and can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/matrice%20trasabilitate.png</p>
 
 <h2>Test Execution chart </h2>
 -> enter here test execution report/chart
