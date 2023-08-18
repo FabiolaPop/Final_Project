@@ -83,6 +83,7 @@
   <li>The name page is Buna Fabiola, not Stergere cont.</li>
 </ol>
 <p>was generated and can be found here:  </p>
+<p>same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.pdf.pdf</p>
 
 <h2>Test Completion </h2>
 <p>Exit criteria was evaluated and passed and can be seen here: </p>
