@@ -37,7 +37,19 @@
 <p>Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:</p>
 <p>Test cases: </p>
 <ol>
-  <li></li>
+  <li>Verify Logout button</li>
+  <li>Verify Modifica parola</li>
+  <li>Verify Date personale</li>
+  <li>Verify Firme</li>
+  <li>Verify Adrese</li>
+  <li>Verify Livrare & Facturare</li>
+  <li>Verify module Buna Fabiola</li>
+  <li>Verify Produse favorite</li>
+  <li>Verify Status comanda</li>
+  <li>Verify Istoric comenzi</li>
+  <li>Verify left menu for  Cum Cumpar button in the Top menu</li>
+  <li>Verify left menu for Promotiile Lunii button from Top menu</li>
+  <li>Verify Comenzi</li>
 </ol>
 
 <p>The test cases with steps can be viewed here: test_cases.pdf </p>
