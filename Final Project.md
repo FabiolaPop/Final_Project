@@ -51,7 +51,7 @@
   <li>Verify Comenzi</li>
 </ol>
 
-<p>Some test cases with steps can be viewed here: https://github.com/FabiolaPop/Final_Project/blob/main/tc%201.png and https://github.com/FabiolaPop/Final_Project/blob/main/tc%202.png</p>
+<p>Some test cases with steps can be viewed here: https://github.com/FabiolaPop/Final_Project/blob/main/tc.png</p>
 
 <h2>Test Implementation </h2>
 <p>The following elements are needed to be ready before the test execution phase begins: </p>
