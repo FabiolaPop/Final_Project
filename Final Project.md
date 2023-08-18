@@ -16,13 +16,12 @@
 <h2>Test scope </h2>
 <p>tests should reveal all the functionality problems of these two main modules that are tested. </p>
 
-<h2>Risks detected </h2>
-
-<h2>Project risks: </h2>
+<h2>Types of risks detected </h2>
+ - <strong>Project risks: </strong>
 <p>If the module “My account” does not save personal data correctly or the order history present issues like the status of the payment, the site can become unreliable in the future for users. </p>
 
-<h2>Product risks: </h2>
-<p>In order to make it user-friendly, there is the risk of repeating the same menus but with different names for the buttons in the catalog or the name of the pages did not correspond to the name of the pages. Thus, the site can become more confusing than attractive for the user. </p>
+ - <strong>Product risks: </strong>
+<p>In order to make it user-friendly, there is the risk of repeating the same menus but with different names for the buttons in the catalog or the name of pages that will not correspond to the name of the pages. Thus, the site can become more confusing than attractive for the user. </p>
 
 <h2>Evaluating entry criteria </h2>
 <p>The entry criteria’s defined in the Test Planning phase have been achieved and the test process can continue. </p>
@@ -31,7 +30,7 @@
 <p>It will be done by generating periodic reports that reflect the current status of the test. </p>
 
 <h2>Test Analysis </h2>
-<p>The testing process will be executed based on the above requirements for the two main modules. The following test conditions were found: </p>
+<p>The testing process will be executed based on the above requirements for the two main modules. </p>
 
 <h2>Test Design </h2>
 <p>Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:</p>
@@ -52,7 +51,7 @@
   <li>Verify Comenzi</li>
 </ol>
 
-<p>Some test cases with steps can be viewed here: [test_cases.pdf](https://github.com/FabiolaPop/Final_Project/blob/main/tc%201.png) and https://github.com/FabiolaPop/Final_Project/blob/main/tc%202.png</p>
+<p>Some test cases with steps can be viewed here: https://github.com/FabiolaPop/Final_Project/blob/main/tc%201.png and https://github.com/FabiolaPop/Final_Project/blob/main/tc%202.png</p>
 
 <h2>Test Implementation </h2>
 <p>The following elements are needed to be ready before the test execution phase begins: </p>
