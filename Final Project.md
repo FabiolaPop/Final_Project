@@ -52,13 +52,13 @@
   <li>Verify Comenzi</li>
 </ol>
 
-<p>The test cases with steps can be viewed here: test_cases.pdf </p>
+<p>Some test cases with steps can be viewed here: test_cases.pdf </p>
 
 <h2>Test Implementation </h2>
 <p>The following elements are needed to be ready before the test execution phase begins: </p>
 <ol>
   <li>Navigate the site to observe the functionalities of the menus</li>
-  <li>create an user accoun</li>
+  <li>Create an user account for this site</li>
 </ol>
   
 <h2>Bugs </h2>
@@ -86,7 +86,7 @@
 <p>Same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.pdf.pdf</p>
 
 <h2>Test Completion </h2>
-<p>Exit criteria was evaluated and passed and can be seen here: </p>
+<p>Exit criteria was evaluated and passed and can be seen here: https://github.com/FabiolaPop/Final_Project/blob/main/raport%20toate%20done%20Jira.csv</p>
 
 <h2>The traceability matrix </h2>
 <p>was generated and can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/matrice%20trasabilitate.png</p>
