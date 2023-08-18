@@ -82,7 +82,7 @@
   <li>The name page is Buna Fabiola, not Stergere cont.</li>
 </ol>
 <p>And can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.xlsx</p>
-<p>Same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.pdf.pdf</p>
+<p>Same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.png</p>
 
 <h2>Test Completion </h2>
 <p>Exit criteria was evaluated and passed and can be seen here: https://github.com/FabiolaPop/Final_Project/blob/main/raport%20toate%20done%20Jira.csv</p>
