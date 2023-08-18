@@ -82,8 +82,8 @@
   <li>I can save data even the fields are maked as mandatory</li>
   <li>The name page is Buna Fabiola, not Stergere cont.</li>
 </ol>
-<p>was generated and can be found here:  </p>
-<p>same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.pdf.pdf</p>
+<p>And can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.xlsx</p>
+<p>Same exemples can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/bugs.pdf.pdf</p>
 
 <h2>Test Completion </h2>
 <p>Exit criteria was evaluated and passed and can be seen here: </p>
@@ -94,10 +94,10 @@
 <h2>Test Execution </h2>
 <p>Test cases are executed on the created test Cycle summary: </p>
 
-<h2>Test execution chart </h2>
+<h2>Test Execution chart </h2>
 -> enter here test execution report/chart
 
-<h2>The final report shows:</h2>
+# The final report shows:
 <ol>
   <li>Within this project, all 15 TCs planned for execution were tested.</li>
   <li>From the 15 TCs, a total number of 17 bugs were discovered, whose priorities are 5 (low), 3 (medium) and 9 (high)</li>
