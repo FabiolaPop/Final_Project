@@ -92,7 +92,7 @@
 <p>was generated and can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/matrice%20trasabilitate.png</p>
 
 <h2>Test Execution: </h2>
-<p>A list of exxecution test can be found here: </p>
+<p>A list of execution test can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/execution%20list.png</p>
 <p>Report/Chart can be found here: https://github.com/FabiolaPop/Final_Project/blob/main/execution%20list.png</p>
 
 # The final report shows:
