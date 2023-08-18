@@ -17,10 +17,10 @@
 <p>tests should reveal all the functionality problems of these two main modules that are tested. </p>
 
 <h2>Types of risks detected </h2>
- - <strong>Project risks: </strong>
+<strong>Project risks: </strong>
 <p>If the module “My account” does not save personal data correctly or the order history present issues like the status of the payment, the site can become unreliable in the future for users. </p>
 
- - <strong>Product risks: </strong>
+<strong>Product risks: </strong>
 <p>In order to make it user-friendly, there is the risk of repeating the same menus but with different names for the buttons in the catalog or the name of pages that will not correspond to the name of the pages. Thus, the site can become more confusing than attractive for the user. </p>
 
 <h2>Evaluating entry criteria </h2>
